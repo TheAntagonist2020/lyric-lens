@@ -1,0 +1,13 @@
+{
+  "name": "lyric-lens",
+  "version": "0.1.0",
+  "description": "Close-read song lyrics like poetry: line-cited readings of theme, metaphor, voice, sound and ambiguity, a mode to pressure-test your own interpretation, and motif tracking across an artist's catalog.",
+  "author": {
+    "name": "TheAntagonist2020",
+    "url": "https://github.com/TheAntagonist2020"
+  },
+  "homepage": "https://github.com/TheAntagonist2020/lyric-lens",
+  "repository": "https://github.com/TheAntagonist2020/lyric-lens",
+  "license": "MIT",
+  "keywords": ["lyrics", "music", "poetry", "close-reading", "songwriting", "analysis", "hip-hop"]
+}

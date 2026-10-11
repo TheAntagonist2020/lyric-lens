@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lyric-lens",
+  "owner": {
+    "name": "TheAntagonist2020",
+    "url": "https://github.com/TheAntagonist2020"
+  },
+  "metadata": {
+    "description": "Lyric Lens: close-read song lyrics like poetry, with every claim tied to a line.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "lyric-lens",
+      "source": "./",
+      "description": "Close-read song lyrics like poetry: line-cited readings of theme, metaphor, voice, sound and ambiguity, a mode to pressure-test your own interpretation, and motif tracking across an artist's catalog.",
+      "version": "0.1.0",
+      "category": "writing",
+      "keywords": ["lyrics", "music", "poetry", "close-reading", "analysis"]
+    }
+  ]
+}
